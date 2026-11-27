@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "categories": {
+    "Geography": "https://cdn.jsdelivr.net/gh/Khanzyoxxreal/uplift-question-bank@main/questions/geography.json",
+    "Science": "https://cdn.jsdelivr.net/gh/Khanzyoxxreal/uplift-question-bank@main/questions/science.json",
+    "Astronomy": "https://cdn.jsdelivr.net/gh/Khanzyoxxreal/uplift-question-bank@main/questions/astronomy.json",
+    "Sports": "https://cdn.jsdelivr.net/gh/Khanzyoxxreal/uplift-question-bank@main/questions/sports.json",
+    "World": "https://cdn.jsdelivr.net/gh/Khanzyoxxreal/uplift-question-bank@main/questions/world.json",
+    "Random": "https://cdn.jsdelivr.net/gh/Khanzyoxxreal/uplift-question-bank@main/questions/random.json"
+  }
+}

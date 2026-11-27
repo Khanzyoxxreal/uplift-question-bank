@@ -1,0 +1,75 @@
+[
+  {
+    "question": "How many planets are in the Solar System?",
+    "answer": 8,
+    "unit": "planets",
+    "category": "Science"
+  },
+  {
+    "question": "What is Earth's approximate equatorial circumference?",
+    "answer": 40075,
+    "unit": "km",
+    "category": "Science",
+    "label": "Earth's circumference"
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "answer": 299792458,
+    "unit": "m/s",
+    "category": "Science"
+  },
+  {
+    "question": "How many bones does an adult human body have?",
+    "answer": 206,
+    "unit": "bones",
+    "category": "Science"
+  },
+  {
+    "question": "What is the atomic number of gold?",
+    "answer": 79,
+    "unit": "",
+    "category": "Science"
+  },
+  {
+    "question": "How many elements are in the periodic table (as of 2024)?",
+    "answer": 118,
+    "unit": "elements",
+    "category": "Science"
+  },
+  {
+    "question": "What is standard gravity on Earth's surface?",
+    "answer": 9.80665,
+    "unit": "m/s²",
+    "category": "Science"
+  },
+  {
+    "question": "How many chromosomes are in a typical human body cell?",
+    "answer": 46,
+    "unit": "chromosomes",
+    "category": "Science"
+  },
+  {
+    "question": "At what temperature does iron melt?",
+    "answer": 1538,
+    "unit": "°C",
+    "category": "Science"
+  },
+  {
+    "question": "What is the speed of sound in dry air at 20 °C?",
+    "answer": 343,
+    "unit": "m/s",
+    "category": "Science"
+  },
+  {
+    "question": "How many teeth does a full adult human set have (including wisdom teeth)?",
+    "answer": 32,
+    "unit": "teeth",
+    "category": "Science"
+  },
+  {
+    "question": "At what temperature does water boil at sea level?",
+    "answer": 212,
+    "unit": "°F",
+    "category": "Science"
+  }
+]

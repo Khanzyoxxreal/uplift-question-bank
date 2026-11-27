@@ -1,0 +1,69 @@
+[
+  {
+    "question": "What is the official length of a marathon?",
+    "answer": 42.195,
+    "unit": "km",
+    "category": "Sports",
+    "label": "Marathon distance"
+  },
+  {
+    "question": "What is the men's 100 m world record time (Usain Bolt, 2009)?",
+    "answer": 9.58,
+    "unit": "seconds",
+    "category": "Sports"
+  },
+  {
+    "question": "How high is a regulation basketball hoop above the floor?",
+    "answer": 3.05,
+    "unit": "meters",
+    "category": "Sports",
+    "label": "Basketball hoop height"
+  },
+  {
+    "question": "How many goals were scored in total at the 2022 FIFA World Cup in Qatar?",
+    "answer": 172,
+    "unit": "goals",
+    "category": "Sports"
+  },
+  {
+    "question": "What is the length of a regulation NBA court?",
+    "answer": 28.65,
+    "unit": "meters",
+    "category": "Sports",
+    "label": "NBA court length"
+  },
+  {
+    "question": "How wide is a standard football (soccer) goal, measured between the posts?",
+    "answer": 7.32,
+    "unit": "meters",
+    "category": "Sports",
+    "label": "Soccer goal width"
+  },
+  {
+    "question": "How high is the top of the net in men's Olympic volleyball?",
+    "answer": 2.43,
+    "unit": "meters",
+    "category": "Sports",
+    "label": "Volleyball net height"
+  },
+  {
+    "question": "How heavy is the men's shot put used in competition?",
+    "answer": 7.26,
+    "unit": "kg",
+    "category": "Sports"
+  },
+  {
+    "question": "What is the distance between consecutive bases on a baseball diamond?",
+    "answer": 27.43,
+    "unit": "meters",
+    "category": "Sports",
+    "label": "Baseball base distance"
+  },
+  {
+    "question": "What is the length of a tennis court (baseline to baseline)?",
+    "answer": 23.77,
+    "unit": "meters",
+    "category": "Sports",
+    "label": "Tennis court length"
+  }
+]

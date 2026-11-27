@@ -1,0 +1,56 @@
+[
+  {
+    "question": "How many keys does a standard modern piano have?",
+    "answer": 88,
+    "unit": "keys",
+    "category": "Random"
+  },
+  {
+    "question": "How many squares are on a chessboard?",
+    "answer": 64,
+    "unit": "squares",
+    "category": "Random"
+  },
+  {
+    "question": "How many coloured stickers are on a standard 3×3 Rubik's Cube?",
+    "answer": 54,
+    "unit": "stickers",
+    "category": "Random"
+  },
+  {
+    "question": "How many cards are in a standard deck of playing cards, without jokers?",
+    "answer": 52,
+    "unit": "cards",
+    "category": "Random"
+  },
+  {
+    "question": "What is the total number of dots on all six faces of a standard die?",
+    "answer": 21,
+    "unit": "dots",
+    "category": "Random"
+  },
+  {
+    "question": "What is the length of the long side of an A4 sheet of paper?",
+    "answer": 297,
+    "unit": "mm",
+    "category": "Random"
+  },
+  {
+    "question": "How many minutes are in one day?",
+    "answer": 1440,
+    "unit": "minutes",
+    "category": "Random"
+  },
+  {
+    "question": "How many cells are in a standard Sudoku grid?",
+    "answer": 81,
+    "unit": "cells",
+    "category": "Random"
+  },
+  {
+    "question": "How many pieces are on the board at the start of a chess game, both sides combined?",
+    "answer": 32,
+    "unit": "pieces",
+    "category": "Random"
+  }
+]

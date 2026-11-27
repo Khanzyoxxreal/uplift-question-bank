@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the official height of Mount Everest (2020 China–Nepal survey)?",
+    "answer": 8848.86,
+    "unit": "meters",
+    "category": "Geography",
+    "label": "Mount Everest"
+  },
+  {
+    "question": "What is the total area of Australia?",
+    "answer": 7692024,
+    "unit": "km²",
+    "category": "Geography"
+  },
+  {
+    "question": "What is the total height of Angel Falls in Venezuela?",
+    "answer": 979,
+    "unit": "meters",
+    "category": "Geography",
+    "label": "Angel Falls"
+  },
+  {
+    "question": "What is the height of the Burj Khalifa in Dubai?",
+    "answer": 828,
+    "unit": "meters",
+    "category": "Geography",
+    "label": "Burj Khalifa"
+  },
+  {
+    "question": "What is the height of the Eiffel Tower including its antennas (as of 2022)?",
+    "answer": 330,
+    "unit": "meters",
+    "category": "Geography",
+    "label": "Eiffel Tower"
+  },
+  {
+    "question": "How many countries are in Africa (UN-recognised sovereign states)?",
+    "answer": 54,
+    "unit": "countries",
+    "category": "Geography"
+  },
+  {
+    "question": "How long is the Panama Canal?",
+    "answer": 82,
+    "unit": "km",
+    "category": "Geography",
+    "label": "Panama Canal length"
+  },
+  {
+    "question": "What is the maximum depth of Lake Baikal?",
+    "answer": 1642,
+    "unit": "meters",
+    "category": "Geography",
+    "label": "Lake Baikal depth"
+  },
+  {
+    "question": "What is the height of Mount Kilimanjaro's summit (Uhuru Peak)?",
+    "answer": 5895,
+    "unit": "meters",
+    "category": "Geography",
+    "label": "Mount Kilimanjaro"
+  },
+  {
+    "question": "How long is the Suez Canal?",
+    "answer": 193,
+    "unit": "km",
+    "category": "Geography",
+    "label": "Suez Canal length"
+  },
+  {
+    "question": "How tall is the Statue of Liberty from the ground to the tip of the torch?",
+    "answer": 93,
+    "unit": "meters",
+    "category": "Geography",
+    "label": "Statue of Liberty"
+  }
+]

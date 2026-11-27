@@ -1,0 +1,81 @@
+[
+  {
+    "question": "What is the average distance from the Earth to the Sun (1 astronomical unit)?",
+    "answer": 149597870.7,
+    "unit": "km",
+    "category": "Astronomy",
+    "label": "Earth–Sun distance"
+  },
+  {
+    "question": "What is the average distance from the Earth to the Moon?",
+    "answer": 384400,
+    "unit": "km",
+    "category": "Astronomy",
+    "label": "Earth–Moon distance"
+  },
+  {
+    "question": "What is the mean diameter of the Moon?",
+    "answer": 3474.8,
+    "unit": "km",
+    "category": "Astronomy",
+    "label": "Moon diameter"
+  },
+  {
+    "question": "What is the mean radius of the Earth?",
+    "answer": 6371,
+    "unit": "km",
+    "category": "Astronomy",
+    "label": "Earth's radius"
+  },
+  {
+    "question": "What is the diameter of the Sun?",
+    "answer": 1392700,
+    "unit": "km",
+    "category": "Astronomy",
+    "label": "Sun's diameter"
+  },
+  {
+    "question": "What is the diameter of Mars?",
+    "answer": 6779,
+    "unit": "km",
+    "category": "Astronomy",
+    "label": "Mars diameter"
+  },
+  {
+    "question": "What is the equatorial diameter of Jupiter?",
+    "answer": 142984,
+    "unit": "km",
+    "category": "Astronomy",
+    "label": "Jupiter diameter"
+  },
+  {
+    "question": "How many Earth days does Mars take to orbit the Sun once?",
+    "answer": 687,
+    "unit": "days",
+    "category": "Astronomy"
+  },
+  {
+    "question": "How many Earth years does Jupiter take to orbit the Sun once?",
+    "answer": 11.86,
+    "unit": "years",
+    "category": "Astronomy"
+  },
+  {
+    "question": "How far away is Proxima Centauri, the nearest star to the Sun?",
+    "answer": 4.24,
+    "unit": "light-years",
+    "category": "Astronomy"
+  },
+  {
+    "question": "How many crewed Apollo missions successfully landed on the Moon?",
+    "answer": 6,
+    "unit": "missions",
+    "category": "Astronomy"
+  },
+  {
+    "question": "How many minutes does sunlight take to reach the Earth?",
+    "answer": 8.3,
+    "unit": "minutes",
+    "category": "Astronomy"
+  }
+]

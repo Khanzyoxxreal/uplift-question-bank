@@ -1,0 +1,61 @@
+[
+  {
+    "question": "How many member states does the United Nations have?",
+    "answer": 193,
+    "unit": "countries",
+    "category": "World"
+  },
+  {
+    "question": "How many official languages does the United Nations use?",
+    "answer": 6,
+    "unit": "languages",
+    "category": "World"
+  },
+  {
+    "question": "How many member states does the European Union have (since 2020)?",
+    "answer": 27,
+    "unit": "countries",
+    "category": "World"
+  },
+  {
+    "question": "What was the original height of the Great Pyramid of Giza?",
+    "answer": 146.6,
+    "unit": "meters",
+    "category": "World",
+    "label": "Great Pyramid height"
+  },
+  {
+    "question": "What is the total length of the Great Wall of China according to China's 2012 national survey?",
+    "answer": 21196,
+    "unit": "km",
+    "category": "World",
+    "label": "Great Wall length"
+  },
+  {
+    "question": "How long is the Trans-Siberian Railway from Moscow to Vladivostok?",
+    "answer": 9289,
+    "unit": "km",
+    "category": "World",
+    "label": "Trans-Siberian Railway"
+  },
+  {
+    "question": "What is the length of the main span of the Golden Gate Bridge?",
+    "answer": 1280,
+    "unit": "meters",
+    "category": "World",
+    "label": "Golden Gate main span"
+  },
+  {
+    "question": "Tuyến đường sắt Thống Nhất từ Hà Nội đến Thành phố Hồ Chí Minh dài bao nhiêu km?",
+    "answer": 1726,
+    "unit": "km",
+    "category": "World",
+    "label": "Đường sắt Hà Nội–TP.HCM"
+  },
+  {
+    "question": "Việt Nam có bao nhiêu quốc gia láng giềng có chung đường biên giới trên đất liền?",
+    "answer": 3,
+    "unit": "quốc gia",
+    "category": "World"
+  }
+]
